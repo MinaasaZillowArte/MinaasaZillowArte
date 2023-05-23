@@ -1,8 +1,10 @@
-# MinaasaZillowArte
-
 <div align="center">
-  <img src="https://i.postimg.cc/Hx8m1dVK/sasf.png)" alt="MinaasaZillowArte Profile Image">
+  <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden;">
+    <img src="https://i.postimg.cc/Hx8m1dVK/sasf.png" alt="MinaasaZillowArte Profile Image" style="width: 100%;">
+  </div>
 </div>
+
+# MinaasaZillowArte
 
 Welcome to my GitHub profile! Here, amidst the virtual canvas, I invite you to immerse yourself in a world of beauty, creativity, and artistic expressions. With each stroke of imagination, I strive to breathe life into captivating artworks that resonate with the soul. Let us embark on a journey where colors dance, emotions speak, and stories unfold.
 
