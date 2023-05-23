@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/Hx8m1dVK/sasf.png" alt="MinaasaZillowArte Profile Image" style="border-radius: 50%;">
+  <img src="https://i.postimg.cc/7Y3mtdYN/sasf.png" alt="MinaasaZillowArte Profile Image" style="border-radius: 50%;">
 </div>
 
 # MinaasaZillowArte
