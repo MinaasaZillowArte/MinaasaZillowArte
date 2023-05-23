@@ -1,7 +1,7 @@
 # MinaasaZillowArte
 
 <div align="center">
-  <img src="https://www.pngmart.com/files/13/Anime-PNG-Transparent.png" alt="MinaasaZillowArte Profile Image">
+  <img src="https://www.pngmart.com/files/13/Anime-PNG-Transparent.png" alt="MinaasaZillowArte Profile Image" width=100>
 </div>
 
 Hello there, fellow adventurer in the realms of code and creativity! Welcome to my GitHub profile, where art and technology intertwine to create mesmerizing experiences. As a programmer with a focus on AI and Fullstack Development, I invite you to join me on an extraordinary journey where innovation meets aesthetics.
