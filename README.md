@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://thumbs.gfycat.com/BarrenAnchoredHyrax-size_restricted.gif" alt="MinaasaZillowArte Profile Image" width=400>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Petrial_icosahedron.gif" alt="MinaasaZillowArt" width=400>
 </div>
 
 # MinaasaZillowArte
