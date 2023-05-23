@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fcode-school-logo&psig=AOvVaw2K0G04D8fQe5kqys8sFys3&ust=1684926871051000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjHwO2ni_8CFQAAAAAdAAAAABAJ" alt="MinaasaZillowArte Profile Image">
+  <img src="https://assets.stickpng.com/images/5847eb76cef1014c0b5e484f.png" alt="MinaasaZillowArte Profile Image">
 </div>
 
 # MinaasaZillowArte
