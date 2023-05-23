@@ -1,8 +1,8 @@
-# MinaasaZillowArte
-
 <div align="center">
   <img src="https://i.postimg.cc/Hx8m1dVK/sasf.png" alt="MinaasaZillowArte Profile Image" style="border-radius: 50%;">
 </div>
+
+# MinaasaZillowArte
 
 Hello there, fellow adventurer in the realms of code and creativity! Welcome to my GitHub profile, where art and technology intertwine to create mesmerizing experiences. As a programmer with a focus on AI and Fullstack Development, I invite you to join me on an extraordinary journey where innovation meets aesthetics.
 
