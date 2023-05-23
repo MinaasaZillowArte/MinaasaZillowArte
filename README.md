@@ -1,8 +1,6 @@
-<div align="center">
-  <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden;">
-    <img src="https://i.postimg.cc/Hx8m1dVK/sasf.png" alt="MinaasaZillowArte Profile Image" style="width: 100%;">
-  </div>
-</div>
+<p align="center">
+  <img src="https://i.postimg.cc/Hx8m1dVK/sasf.png" alt="MinaasaZillowArte Profile Image" width="200" style="border-radius: 50%;">
+</p>
 
 # MinaasaZillowArte
 
