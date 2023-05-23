@@ -1,6 +1,6 @@
 # MinaasaZillowArte
 
-<div align="center">
+<div align="left">
   <img src="https://www.pngmart.com/files/13/Anime-PNG-Transparent.png" alt="MinaasaZillowArte Profile Image" width=100>
 </div>
 
