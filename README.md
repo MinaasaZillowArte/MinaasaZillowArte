@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Petrial_icosahedron.gif" alt="MinaasaZillowArt" width=400>
 </div>
 
