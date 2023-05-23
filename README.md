@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://assets.stickpng.com/images/5847eb76cef1014c0b5e484f.png" alt="MinaasaZillowArte Profile Image">
+  <img src="https://pngimg.com/image/81989" alt="MinaasaZillowArte Profile Image">
 </div>
 
 # MinaasaZillowArte
