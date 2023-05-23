@@ -1,8 +1,8 @@
-# MinaasaZillowArte
-
 <div align="center">
-  <img src="https://thumbs.gfycat.com/BarrenAnchoredHyrax-size_restricted.gif" alt="MinaasaZillowArte Profile Image" width=100>
+  <img src="https://thumbs.gfycat.com/BarrenAnchoredHyrax-size_restricted.gif" alt="MinaasaZillowArte Profile Image" width=400>
 </div>
+
+# MinaasaZillowArte
 
 Hello there, fellow adventurer in the realms of code and creativity! Welcome to my GitHub profile, where art and technology intertwine to create mesmerizing experiences. As a programmer with a focus on AI and Fullstack Development, I invite you to join me on an extraordinary journey where innovation meets aesthetics.
 
