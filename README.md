@@ -1,36 +1,32 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Petrial_icosahedron.gif" alt="MinaasaZillowArt" width=400>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Petrial_icosahedron.gif" width="400">
+  
+  ![Animated Title](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=MinaasaZillowArte;AI+%26+Fullstack+Alchemist;Code+%7C+Create+%7C+Innovate)
 </div>
 
-# MinaasaZillowArte
+##  **About Me**
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"> **Digital Artisan**  
+-  Sculpting AI-powered solutions
+-  Currently mastering: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white)
 
-Greetings, kindred wanderer amidst the boundless expanse of code and enchantment! Behold, as you venture into the mystical realm of my GitHub profile, where the captivating union of art and technology gives birth to awe-inspiring masterpieces. Embracing the realms of AI and Fullstack Development, I extend a heartfelt invitation, beckoning you to embark on a remarkable odyssey with me. Together, we shall traverse a wondrous path where innovation and aesthetics intertwine, painting a breathtaking symphony of boundless creativity.
+## **Featured Projects**
+[![LuminAI](https://github-readme-stats.vercel.app/api/pin/?username=MinaasaZillowArte&repo=LuminAI&theme=radical&show_owner=true)](https://github.com/MinaasaZillowArte/LuminAI)
+[![Project2](https://github-readme-stats.vercel.app/api/pin/?username=MinaasaZillowArte&repo=Project2&theme=radical&show_owner=true)](https://github.com/MinaasaZillowArte/Project2)
 
-## About Me
+## **Development Activity**
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MinaasaZillowArte&theme=radical)](https://git.io/streak-stats)
 
-I am an enthusiastic programmer who is committed to pushing the boundaries of full-stack development and artificial intelligence. I work hard to provide cutting-edge solutions, beautiful designs, and simple user interfaces with every line of code. Beyond the boundaries of basic functionality, I think that every part of development should be infused with creativity, balancing aesthetics and functionality to create stunning digital experiences.
+## **Connect**
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092200876784)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minaasa-zillow-arte-3a703b278/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/MinaasaZillow)
 
-## Featured Projects
+## **Tech Stack**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
-### 1. [LuminAI](https://github.com/MinaasaZillowArte/LuminAI)
-
-The outstanding ChatAI project LuminAI demonstrates the amazing potential of artificial intelligence in conversational interactions. LuminAI is an entertaining chatbot developed by MinaasaZillowArte that uses cutting-edge NLP techniques to create lively and intelligent discussions.
-
-Modern AI algorithms enable LuminAI to engage users in a variety of topics while offering insightful commentary and insightful facts. LuminAI offers a personalized and interactive experience, whether you're looking for guidance, exploring novel concepts, or just a nice discussion.
-
-## Connect with Me
-
-I strongly believe in the power of teamwork and shared learning as an enthusiastic coder. Together, let's connect and discover the enormous world of code and creativity. You can find me on the following platform :
-
-- [Facebook](https://www.facebook.com/profile.php?id=100092200876784)
-- [LinkedIn](https://www.linkedin.com/in/minaasa-zillow-arte-3a703b278/)
-- [GitHub](https://github.com/MinaasaZillowArte)
-- [Twitter](https://twitter.com/MinaasaZillow)
-
-Please feel free to get in touch, exchange ideas, work together on projects, or just geek out over technology. Let's make stunning digital experiences that combine innovation, usability, and beauty.
-
-## Open Source and Contributions
-
-I am an active member of the open-source community and I respect the value of information sharing. On my GitHub profile, you can go through my contributions and repositories. I would be happy to work with you on any projects that strike a chord with you. Together, we can influence technology's future and motivate other developers.
-
-I appreciate you looking at my profile. I wish you infinite inquiry, elegant solutions, and a dash of creativity in your coding endeavors. Coding is fun!
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MinaasaZillowArte&style=flat-square&color=blueviolet" alt="Profile Views">
+</div>
