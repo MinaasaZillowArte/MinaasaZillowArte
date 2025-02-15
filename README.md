@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Petrial_icosahedron.gif" width="400">
   
-  ![Animated Title](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=MinaasaZillowArte;AI+%26+Fullstack+Alchemist;Code+%7C+Create+%7C+Innovate)
+  ![Animated Title](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=MinaasaZillowArte;AI+%26+Fullstack;Code+%7C+Create+%7C+Innovate)
 </div>
 
 ##  **About Me**
