@@ -11,7 +11,6 @@
 
 ## **Featured Projects**
 [![LuminAI](https://github-readme-stats.vercel.app/api/pin/?username=MinaasaZillowArte&repo=LuminAI&theme=radical&show_owner=true)](https://github.com/MinaasaZillowArte/LuminAI)
-[![Project2](https://github-readme-stats.vercel.app/api/pin/?username=MinaasaZillowArte&repo=Project2&theme=radical&show_owner=true)](https://github.com/MinaasaZillowArte/Project2)
 
 ## **Development Activity**
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MinaasaZillowArte&theme=radical)](https://git.io/streak-stats)
